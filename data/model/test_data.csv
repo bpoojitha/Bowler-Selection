@@ -1,0 +1,123 @@
+Bowler,venue,BattingTeam,Phase,Batter,Innings,winner,TotalRuns,ExtrasRuns,WicketDeliveries,Balls,Boundaries,WinLoss,battingStyles_x,bowlingStyles,longBowlingStyles,EconomyRate,StrikeRate,BoundaryPercentage,Selected,Year
+SM Curran,Dubai International Cricket Stadium,Sunrisers Hyderabad,DeathOvers,PK Garg,1,Sunrisers Hyderabad,21,1,0,6,4,0,,lmf,left-arm medium-fast,21.0,inf,66.66666666666666,0,2025
+SM Curran,"Eden Gardens, Kolkata",Kolkata Knight Riders,DeathOvers,SS Iyer,1,Punjab Kings,23,0,0,5,4,1,rhb,lmf,left-arm medium-fast,27.6,inf,80.0,0,2025
+SM Curran,"Himachal Pradesh Cricket Association Stadium, Dharamsala",Royal Challengers Bengaluru,MiddleOvers,V Kohli,1,Royal Challengers Bengaluru,21,2,0,8,3,0,rhb,lmf,left-arm medium-fast,15.75,inf,37.5,0,2025
+SM Curran,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",Mumbai Indians,MiddleOvers,SA Yadav,2,Mumbai Indians,22,1,0,6,4,0,rhb,lmf,left-arm medium-fast,22.0,inf,66.66666666666666,0,2025
+SM Curran,"Wankhede Stadium, Mumbai",Kolkata Knight Riders,MiddleOvers,PJ Cummins,2,Chennai Super Kings,31,0,0,7,5,1,rhb,lmf,left-arm medium-fast,26.57142857142857,inf,71.42857142857143,0,2025
+SN Thakur,"Arun Jaitley Stadium, Delhi",Mumbai Indians,MiddleOvers,KA Pollard,2,Mumbai Indians,23,3,0,9,4,0,,rm,right-arm medium,15.333333333333334,inf,44.44444444444444,0,2025
+SN Thakur,"Brabourne Stadium, Mumbai",Punjab Kings,Powerplay,MA Agarwal,1,Delhi Capitals,20,0,0,10,4,1,rhb,rm,right-arm medium,12.0,inf,40.0,0,2025
+SN Thakur,"Eden Gardens, Kolkata",Kolkata Knight Riders,Powerplay,SP Narine,2,Lucknow Super Giants,22,3,0,10,4,1,lhb,rm,right-arm medium,13.2,inf,40.0,0,2025
+SN Thakur,"MA Chidambaram Stadium, Chepauk, Chennai",Lucknow Super Giants,MiddleOvers,N Pooran,2,Lucknow Super Giants,21,0,0,7,3,0,lhb,rm,right-arm medium,18.0,inf,42.85714285714285,0,2025
+SN Thakur,Sheikh Zayed Stadium,Rajasthan Royals,MiddleOvers,JC Buttler,2,Rajasthan Royals,26,1,0,18,3,0,rhb,rm,right-arm medium,8.666666666666666,inf,16.666666666666664,0,2025
+SN Thakur,"Wankhede Stadium, Mumbai",Kolkata Knight Riders,MiddleOvers,AD Russell,2,Chennai Super Kings,24,2,0,8,4,1,rhb,rm,right-arm medium,18.0,inf,50.0,0,2025
+SN Thakur,"Wankhede Stadium, Mumbai",Mumbai Indians,Powerplay,Ishan Kishan,2,Mumbai Indians,22,0,0,9,4,0,lhb,rm,right-arm medium,14.666666666666666,inf,44.44444444444444,0,2025
+SP Narine,"Dr DY Patil Sports Academy, Mumbai",Gujarat Titans,MiddleOvers,DA Miller,1,Gujarat Titans,22,0,0,13,3,0,lhb,ob,right-arm offbreak,10.153846153846157,inf,23.07692307692308,0,2025
+SP Narine,Dubai International Cricket Stadium,Rajasthan Royals,DeathOvers,TK Curran,2,Kolkata Knight Riders,20,0,0,6,3,1,rhb,ob,right-arm offbreak,20.0,inf,50.0,0,2025
+SP Narine,"Eden Gardens, Kolkata",Sunrisers Hyderabad,MiddleOvers,H Klaasen,2,Kolkata Knight Riders,21,1,0,13,2,1,rhb,ob,right-arm offbreak,9.692307692307692,inf,15.384615384615383,0,2025
+SP Narine,"M Chinnaswamy Stadium, Bengaluru",Royal Challengers Bangalore,MiddleOvers,MK Lomror,2,Kolkata Knight Riders,20,0,0,8,2,1,lhb,ob,right-arm offbreak,15.0,inf,25.0,0,2025
+SP Narine,"M Chinnaswamy Stadium, Bengaluru",Royal Challengers Bengaluru,MiddleOvers,V Kohli,1,Kolkata Knight Riders,20,0,0,11,2,1,rhb,ob,right-arm offbreak,10.90909090909091,inf,18.181818181818183,0,2025
+SP Narine,"Wankhede Stadium, Mumbai",Mumbai Indians,MiddleOvers,RD Rickelton,2,Mumbai Indians,22,0,0,10,3,0,,ob,right-arm offbreak,13.2,inf,30.0,0,2025
+SP Narine,"Zayed Cricket Stadium, Abu Dhabi",Chennai Super Kings,Powerplay,RD Gaikwad,2,Chennai Super Kings,21,0,0,9,3,0,rhb,ob,right-arm offbreak,14.0,inf,33.33333333333333,0,2025
+SS Cottrell,Sharjah Cricket Stadium,Rajasthan Royals,DeathOvers,R Tewatia,2,Rajasthan Royals,30,0,0,6,5,0,lhb,,,30.0,inf,83.33333333333334,0,2025
+SSB Magala,"Wankhede Stadium, Mumbai",Mumbai Indians,Powerplay,Ishan Kishan,1,Chennai Super Kings,26,0,0,10,5,1,lhb,,,15.6,inf,50.0,0,2025
+Sandeep Sharma,"Arun Jaitley Stadium, Delhi",Rajasthan Royals,DeathOvers,JC Buttler,1,Rajasthan Royals,23,1,1,6,4,0,rhb,rm,right-arm medium,23.0,6.0,66.66666666666666,1,2025
+Sandeep Sharma,"Arun Jaitley Stadium, Delhi",Rajasthan Royals,MiddleOvers,JC Buttler,1,Rajasthan Royals,20,2,0,10,2,0,rhb,rm,right-arm medium,12.0,inf,20.0,0,2025
+Sandeep Sharma,"M Chinnaswamy Stadium, Bengaluru",Royal Challengers Bangalore,Powerplay,F du Plessis,1,Royal Challengers Bangalore,25,0,0,11,5,0,rhb,rm,right-arm medium,13.636363636363637,inf,45.45454545454545,0,2025
+Sandeep Sharma,"MA Chidambaram Stadium, Chepauk, Chennai",Kolkata Knight Riders,Powerplay,N Rana,1,Kolkata Knight Riders,21,0,0,8,5,0,lhb,rm,right-arm medium,15.75,inf,62.5,0,2025
+Sandeep Sharma,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Sunrisers Hyderabad,DeathOvers,H Klaasen,1,Sunrisers Hyderabad,29,0,1,12,4,0,rhb,rm,right-arm medium,14.5,12.0,33.33333333333333,1,2025
+Sandeep Sharma,"Sawai Mansingh Stadium, Jaipur",Lucknow Super Giants,DeathOvers,Abdul Samad,1,Lucknow Super Giants,26,0,0,5,4,0,rhb,rm,right-arm medium,31.2,inf,80.0,0,2025
+Sandeep Sharma,Sharjah Cricket Stadium,Mumbai Indians,Powerplay,Q de Kock,1,Sunrisers Hyderabad,21,0,1,9,4,1,lhb,rm,right-arm medium,14.0,9.0,44.44444444444444,1,2025
+Sandeep Sharma,"Wankhede Stadium, Mumbai",Chennai Super Kings,MiddleOvers,AT Rayudu,2,Punjab Kings,32,0,0,9,6,1,,rm,right-arm medium,21.33333333333333,inf,66.66666666666666,0,2025
+Sandeep Sharma,"Wankhede Stadium, Mumbai",Rajasthan Royals,Powerplay,YBK Jaiswal,2,Rajasthan Royals,20,0,0,11,4,0,lhb,rm,right-arm medium,10.90909090909091,inf,36.36363636363637,0,2025
+Shahbaz Ahmed,"Brabourne Stadium, Mumbai",Punjab Kings,MiddleOvers,LS Livingstone,1,Punjab Kings,31,0,0,15,4,0,rhb,sla,slow left-arm orthodox,12.4,inf,26.666666666666668,0,2025
+Shahbaz Ahmed,"M Chinnaswamy Stadium, Bengaluru",Kolkata Knight Riders,Powerplay,JJ Roy,1,Kolkata Knight Riders,24,0,0,5,4,0,rhb,sla,slow left-arm orthodox,28.8,inf,80.0,0,2025
+Shahbaz Ahmed,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Mumbai Indians,MiddleOvers,Tilak Varma,2,Sunrisers Hyderabad,21,0,0,5,3,1,,sla,slow left-arm orthodox,25.2,inf,60.0,0,2025
+Shivam Mavi,Dubai International Cricket Stadium,Rajasthan Royals,Powerplay,SV Samson,2,Kolkata Knight Riders,5,0,2,8,1,1,rhb,rfm,right-arm fast-medium,3.75,4.0,12.5,1,2025
+Shivam Mavi,Dubai International Cricket Stadium,Sunrisers Hyderabad,Powerplay,KS Williamson,1,Kolkata Knight Riders,20,0,0,11,4,1,rhb,rfm,right-arm fast-medium,10.90909090909091,inf,36.36363636363637,0,2025
+Shivam Mavi,"Maharashtra Cricket Association Stadium, Pune",Lucknow Super Giants,DeathOvers,MP Stoinis,1,Lucknow Super Giants,24,1,1,10,4,0,rhb,rfm,right-arm fast-medium,14.4,10.0,40.0,1,2025
+Shivam Mavi,"Narendra Modi Stadium, Ahmedabad",Delhi Capitals,Powerplay,PP Shaw,2,Delhi Capitals,25,1,0,7,6,0,rhb,rfm,right-arm fast-medium,21.428571428571427,inf,85.71428571428571,0,2025
+Shivam Mavi,"Wankhede Stadium, Mumbai",Punjab Kings,Powerplay,PBB Rajapaksa,1,Kolkata Knight Riders,22,0,1,5,4,1,,rfm,right-arm fast-medium,26.4,5.0,80.0,1,2025
+Simarjeet Singh,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Gujarat Titans,Powerplay,Washington Sundar,2,Gujarat Titans,20,0,0,6,4,0,lhb,rmf,right-arm medium-fast,20.0,inf,66.66666666666666,0,2025
+Simarjeet Singh,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Rajasthan Royals,MiddleOvers,Dhruv Jurel,2,Sunrisers Hyderabad,20,1,0,5,3,1,,rmf,right-arm medium-fast,24.0,inf,60.0,0,2025
+Suyash Sharma,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,MiddleOvers,RM Patidar,2,Kolkata Knight Riders,31,1,0,10,5,1,rhb,lbg,legbreak googly,18.6,inf,50.0,0,2025
+Suyash Sharma,"Eden Gardens, Kolkata",Sunrisers Hyderabad,MiddleOvers,AK Markram,1,Sunrisers Hyderabad,22,0,0,8,4,0,rhb,lbg,legbreak googly,16.5,inf,50.0,0,2025
+Suyash Sharma,"M Chinnaswamy Stadium, Bengaluru",Punjab Kings,MiddleOvers,N Wadhera,2,Punjab Kings,25,4,0,12,5,0,lhb,lbg,legbreak googly,12.5,inf,41.66666666666667,0,2025
+T Natarajan,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai Super Kings,DeathOvers,S Dube,1,Chennai Super Kings,23,2,0,9,3,0,lhb,lm,left-arm medium,15.333333333333334,inf,33.33333333333333,0,2025
+T Natarajan,"MA Chidambaram Stadium, Chepauk, Chennai",Kolkata Knight Riders,Powerplay,VR Iyer,2,Kolkata Knight Riders,20,0,0,6,4,0,lhb,lm,left-arm medium,20.0,inf,66.66666666666666,0,2025
+T Natarajan,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Lucknow Super Giants,DeathOvers,A Badoni,1,Sunrisers Hyderabad,21,0,0,9,4,1,rhb,lm,left-arm medium,14.0,inf,44.44444444444444,0,2025
+T Natarajan,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Mumbai Indians,DeathOvers,C Green,1,Mumbai Indians,23,0,0,7,4,0,rhb,lm,left-arm medium,19.71428571428571,inf,57.14285714285714,0,2025
+T Natarajan,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Punjab Kings,MiddleOvers,S Dhawan,1,Sunrisers Hyderabad,23,0,0,11,4,1,lhb,lm,left-arm medium,12.545454545454549,inf,36.36363636363637,0,2025
+T Natarajan,"Wankhede Stadium, Mumbai",Gujarat Titans,DeathOvers,R Tewatia,2,Gujarat Titans,20,1,0,11,3,0,lhb,lm,left-arm medium,10.90909090909091,inf,27.27272727272727,0,2025
+T Natarajan,"Wankhede Stadium, Mumbai",Mumbai Indians,DeathOvers,TH David,2,Sunrisers Hyderabad,26,2,0,8,4,1,rhb,lm,left-arm medium,19.5,inf,50.0,0,2025
+T Stubbs,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",Lucknow Super Giants,MiddleOvers,N Pooran,1,Delhi Capitals,28,0,0,6,5,1,lhb,ob,right-arm offbreak,28.0,inf,83.33333333333334,0,2025
+TA Boult,"Arun Jaitley Stadium, Delhi",Delhi Capitals,Powerplay,J Fraser-McGurk,1,Delhi Capitals,21,0,0,12,4,0,rhb,lfm,left-arm fast-medium,10.5,inf,33.33333333333333,0,2025
+TA Boult,"Brabourne Stadium, Mumbai",Chennai Super Kings,Powerplay,MM Ali,1,Rajasthan Royals,26,0,0,6,6,1,lhb,lfm,left-arm fast-medium,26.0,inf,100.0,0,2025
+TA Boult,"Eden Gardens, Kolkata",Gujarat Titans,Powerplay,MS Wade,2,Gujarat Titans,21,0,0,12,4,0,lhb,lfm,left-arm fast-medium,10.5,inf,33.33333333333333,0,2025
+TA Boult,"M Chinnaswamy Stadium, Bengaluru",Royal Challengers Bangalore,Powerplay,GJ Maxwell,1,Royal Challengers Bangalore,20,0,0,9,4,0,rhb,lfm,left-arm fast-medium,13.333333333333334,inf,44.44444444444444,0,2025
+TA Boult,"Wankhede Stadium, Mumbai",Chennai Super Kings,MiddleOvers,S Dube,1,Mumbai Indians,22,1,0,10,3,1,lhb,lfm,left-arm fast-medium,13.2,inf,30.0,0,2025
+TA Boult,"Wankhede Stadium, Mumbai",Punjab Kings,Powerplay,JM Bairstow,1,Rajasthan Royals,22,1,0,10,4,1,rhb,lfm,left-arm fast-medium,13.2,inf,40.0,0,2025
+TG Southee,"Dr DY Patil Sports Academy, Mumbai",Lucknow Super Giants,DeathOvers,Q de Kock,1,Lucknow Super Giants,23,1,0,8,3,0,lhb,,,17.25,inf,37.5,0,2025
+TK Curran,Dubai International Cricket Stadium,Kolkata Knight Riders,DeathOvers,EJG Morgan,1,Kolkata Knight Riders,21,3,0,11,2,0,,rfm,right-arm fast-medium,11.454545454545457,inf,18.181818181818183,0,2025
+TK Curran,Sharjah Cricket Stadium,Chennai Super Kings,DeathOvers,MS Dhoni,2,Rajasthan Royals,22,0,0,7,3,1,rhb,rfm,right-arm fast-medium,18.857142857142858,inf,42.85714285714285,0,2025
+TK Curran,"Wankhede Stadium, Mumbai",Chennai Super Kings,DeathOvers,SM Curran,1,Delhi Capitals,23,1,0,8,4,1,lhb,rfm,right-arm fast-medium,17.25,inf,50.0,0,2025
+TM Head,"Narendra Modi Stadium, Ahmedabad",Kolkata Knight Riders,MiddleOvers,SS Iyer,2,Kolkata Knight Riders,27,0,0,6,5,0,rhb,ob,right-arm offbreak,27.0,inf,83.33333333333334,0,2025
+TU Deshpande,"Brabourne Stadium, Mumbai",Lucknow Super Giants,MiddleOvers,E Lewis,2,Lucknow Super Giants,20,1,0,8,3,0,,rm,right-arm medium,15.0,inf,37.5,0,2025
+TU Deshpande,Dubai International Cricket Stadium,Kings XI Punjab,Powerplay,CH Gayle,2,Kings XI Punjab,26,1,0,7,5,0,,rm,right-arm medium,22.285714285714285,inf,71.42857142857143,0,2025
+TU Deshpande,"M Chinnaswamy Stadium, Bengaluru",Royal Challengers Bangalore,Powerplay,F du Plessis,2,Chennai Super Kings,21,0,0,8,4,1,rhb,rm,right-arm medium,15.75,inf,50.0,0,2025
+TU Deshpande,"MA Chidambaram Stadium, Chepauk, Chennai",Punjab Kings,MiddleOvers,LS Livingstone,2,Punjab Kings,22,4,1,5,4,0,rhb,rm,right-arm medium,26.4,5.0,80.0,1,2025
+TU Deshpande,"Narendra Modi Stadium, Ahmedabad",Gujarat Titans,DeathOvers,B Sai Sudharsan,1,Chennai Super Kings,24,0,0,7,5,1,lhb,rm,right-arm medium,20.57142857142857,inf,71.42857142857143,0,2025
+TU Deshpande,"Narendra Modi Stadium, Ahmedabad",Gujarat Titans,DeathOvers,B Sai Sudharsan,1,Gujarat Titans,0,0,2,3,0,0,lhb,rm,right-arm medium,0.0,1.5,0.0,1,2025
+TU Deshpande,"Narendra Modi Stadium, Ahmedabad",Gujarat Titans,Powerplay,B Sai Sudharsan,1,Gujarat Titans,28,2,0,15,4,0,lhb,rm,right-arm medium,11.2,inf,26.666666666666668,0,2025
+UT Yadav,"Brabourne Stadium, Mumbai",Delhi Capitals,Powerplay,PP Shaw,1,Delhi Capitals,23,4,0,11,5,0,rhb,rf,right-arm fast,12.545454545454549,inf,45.45454545454545,0,2025
+UT Yadav,Dubai International Cricket Stadium,Sunrisers Hyderabad,MiddleOvers,JM Bairstow,2,Royal Challengers Bangalore,25,1,0,10,4,1,rhb,rf,right-arm fast,15.0,inf,40.0,0,2025
+UT Yadav,"Eden Gardens, Kolkata",Sunrisers Hyderabad,Powerplay,HC Brook,1,Sunrisers Hyderabad,26,0,0,8,5,0,rhb,rf,right-arm fast,19.5,inf,62.5,0,2025
+UT Yadav,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai Super Kings,Powerplay,R Ravindra,1,Chennai Super Kings,22,1,0,11,4,0,lhb,rf,right-arm fast,12.0,inf,36.36363636363637,0,2025
+Umran Malik,"Brabourne Stadium, Mumbai",Delhi Capitals,Powerplay,DA Warner,1,Delhi Capitals,20,5,0,6,4,0,lhb,rf,right-arm fast,20.0,inf,66.66666666666666,0,2025
+Umran Malik,"Dr DY Patil Sports Academy, Mumbai",Chennai Super Kings,MiddleOvers,MM Ali,1,Sunrisers Hyderabad,20,0,0,8,3,1,lhb,rf,right-arm fast,15.0,inf,37.5,0,2025
+Umran Malik,"Dr DY Patil Sports Academy, Mumbai",Gujarat Titans,MiddleOvers,HH Pandya,1,Sunrisers Hyderabad,24,5,0,14,4,1,rhb,rf,right-arm fast,10.285714285714285,inf,28.57142857142857,0,2025
+Umran Malik,"Dr DY Patil Sports Academy, Mumbai",Lucknow Super Giants,MiddleOvers,DJ Hooda,1,Lucknow Super Giants,26,0,0,8,5,0,rhb,rf,right-arm fast,19.5,inf,62.5,0,2025
+Umran Malik,"Eden Gardens, Kolkata",Kolkata Knight Riders,Powerplay,N Rana,2,Sunrisers Hyderabad,28,0,0,6,6,1,lhb,rf,right-arm fast,28.0,inf,100.0,0,2025
+Umran Malik,"Maharashtra Cricket Association Stadium, Pune",Chennai Super Kings,MiddleOvers,RD Gaikwad,1,Chennai Super Kings,34,1,0,14,6,0,rhb,rf,right-arm fast,14.571428571428571,inf,42.85714285714285,0,2025
+Umran Malik,"Maharashtra Cricket Association Stadium, Pune",Rajasthan Royals,Powerplay,JC Buttler,1,Rajasthan Royals,21,1,0,7,4,0,rhb,rf,right-arm fast,18.0,inf,57.14285714285714,0,2025
+Umran Malik,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Rajasthan Royals,MiddleOvers,SV Samson,1,Rajasthan Royals,20,1,0,9,3,0,rhb,rf,right-arm fast,13.333333333333334,inf,33.33333333333333,0,2025
+Umran Malik,"Zayed Cricket Stadium, Abu Dhabi",Mumbai Indians,Powerplay,Ishan Kishan,1,Mumbai Indians,22,0,0,8,4,0,lhb,rf,right-arm fast,16.5,inf,50.0,0,2025
+V Nigam,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",Lucknow Super Giants,Powerplay,N Pooran,1,Delhi Capitals,22,0,0,6,4,1,lhb,,,22.0,inf,66.66666666666666,0,2025
+VG Arora,"Brabourne Stadium, Mumbai",Delhi Capitals,Powerplay,PP Shaw,2,Delhi Capitals,21,0,0,8,4,0,rhb,rfm,right-arm fast-medium,15.75,inf,50.0,0,2025
+VG Arora,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,Powerplay,PD Salt,2,Royal Challengers Bengaluru,21,1,0,9,4,0,rhb,rfm,right-arm fast-medium,14.0,inf,44.44444444444444,0,2025
+VG Arora,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai Super Kings,Powerplay,DP Conway,1,Kolkata Knight Riders,22,0,0,18,3,1,lhb,rfm,right-arm fast-medium,7.333333333333333,inf,16.666666666666664,0,2025
+VR Iyer,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",Delhi Capitals,MiddleOvers,RR Pant,2,Kolkata Knight Riders,28,0,0,6,6,1,lhb,rm,right-arm medium,28.0,inf,100.0,0,2025
+Vijaykumar Vyshak,"M Chinnaswamy Stadium, Bengaluru",Chennai Super Kings,MiddleOvers,DP Conway,1,Chennai Super Kings,26,0,0,8,5,0,lhb,,,19.5,inf,62.5,0,2025
+Vijaykumar Vyshak,"Wankhede Stadium, Mumbai",Mumbai Indians,MiddleOvers,SA Yadav,2,Mumbai Indians,27,1,2,13,4,0,rhb,,,12.461538461538462,6.5,30.76923076923077,1,2025
+WG Jacks,"M Chinnaswamy Stadium, Bengaluru",Sunrisers Hyderabad,Powerplay,TM Head,1,Sunrisers Hyderabad,21,2,0,9,3,0,lhb,ob,right-arm offbreak,14.0,inf,33.33333333333333,0,2025
+WG Jacks,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Sunrisers Hyderabad,Powerplay,Abhishek Sharma,2,Royal Challengers Bengaluru,21,0,0,8,3,1,lhb,ob,right-arm offbreak,15.75,inf,37.5,0,2025
+Washington Sundar,"Arun Jaitley Stadium, Delhi",Delhi Capitals,Powerplay,J Fraser-McGurk,2,Sunrisers Hyderabad,30,0,0,7,6,1,rhb,ob,right-arm offbreak,25.71428571428571,inf,85.71428571428571,0,2025
+Washington Sundar,"Eden Gardens, Kolkata",Kolkata Knight Riders,MiddleOvers,AM Rahane,2,Gujarat Titans,20,1,1,10,2,1,rhb,ob,right-arm offbreak,12.0,10.0,20.0,1,2025
+Washington Sundar,"Maharashtra Cricket Association Stadium, Pune",Rajasthan Royals,MiddleOvers,SV Samson,1,Rajasthan Royals,26,0,0,10,4,0,rhb,ob,right-arm offbreak,15.6,inf,40.0,0,2025
+YS Chahal,"Barsapara Cricket Stadium, Guwahati",Punjab Kings,MiddleOvers,S Dhawan,1,Punjab Kings,33,0,0,14,6,0,lhb,lbg,legbreak googly,14.142857142857142,inf,42.85714285714285,0,2025
+YS Chahal,"Barsapara Cricket Stadium, Guwahati",Punjab Kings,MiddleOvers,SM Curran,2,Punjab Kings,24,1,0,14,3,0,lhb,lbg,legbreak googly,10.285714285714285,inf,21.428571428571427,0,2025
+YS Chahal,"Brabourne Stadium, Mumbai",Lucknow Super Giants,MiddleOvers,DJ Hooda,2,Rajasthan Royals,20,1,1,10,3,1,rhb,lbg,legbreak googly,12.0,10.0,30.0,1,2025
+YS Chahal,"Dr DY Patil Sports Academy, Mumbai",Gujarat Titans,MiddleOvers,A Manohar,1,Gujarat Titans,22,1,1,11,3,0,rhb,lbg,legbreak googly,12.0,11.0,27.27272727272727,1,2025
+YS Chahal,"Dr DY Patil Sports Academy, Mumbai",Mumbai Indians,MiddleOvers,Tilak Varma,2,Rajasthan Royals,22,1,0,13,3,1,,lbg,legbreak googly,10.153846153846157,inf,23.07692307692308,0,2025
+YS Chahal,"Eden Gardens, Kolkata",Kolkata Knight Riders,MiddleOvers,SP Narine,1,Rajasthan Royals,32,1,0,10,5,1,lhb,lbg,legbreak googly,19.2,inf,50.0,0,2025
+YS Chahal,"MA Chidambaram Stadium, Chepauk, Chennai",Sunrisers Hyderabad,MiddleOvers,H Klaasen,1,Sunrisers Hyderabad,26,1,0,15,3,0,rhb,lbg,legbreak googly,10.4,inf,20.0,0,2025
+YS Chahal,"Narendra Modi Stadium, Ahmedabad",Gujarat Titans,MiddleOvers,B Sai Sudharsan,2,Punjab Kings,30,1,0,13,5,1,lhb,lbg,legbreak googly,13.846153846153848,inf,38.46153846153847,0,2025
+YS Chahal,"Narendra Modi Stadium, Ahmedabad",Royal Challengers Bangalore,MiddleOvers,RM Patidar,1,Rajasthan Royals,22,4,0,13,2,1,rhb,lbg,legbreak googly,10.153846153846157,inf,15.384615384615383,0,2025
+YS Chahal,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Sunrisers Hyderabad,MiddleOvers,Abhishek Sharma,2,Sunrisers Hyderabad,31,1,0,11,4,0,lhb,lbg,legbreak googly,16.90909090909091,inf,36.36363636363637,0,2025
+YS Chahal,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Sunrisers Hyderabad,MiddleOvers,Nithish Kumar Reddy,1,Sunrisers Hyderabad,22,1,0,8,4,0,,lbg,legbreak googly,16.5,inf,50.0,0,2025
+YS Chahal,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Sunrisers Hyderabad,MiddleOvers,TM Head,2,Sunrisers Hyderabad,22,0,1,10,4,0,lhb,lbg,legbreak googly,13.2,10.0,40.0,1,2025
+YS Chahal,"Sawai Mansingh Stadium, Jaipur",Gujarat Titans,MiddleOvers,Shubman Gill,2,Gujarat Titans,25,1,2,17,3,0,rhb,lbg,legbreak googly,8.823529411764705,8.5,17.647058823529413,1,2025
+YS Chahal,"Sawai Mansingh Stadium, Jaipur",Lucknow Super Giants,MiddleOvers,KR Mayers,1,Lucknow Super Giants,22,0,0,8,4,0,lhb,lbg,legbreak googly,16.5,inf,50.0,0,2025
+YS Chahal,"Sawai Mansingh Stadium, Jaipur",Mumbai Indians,MiddleOvers,N Wadhera,1,Rajasthan Royals,20,2,0,8,3,1,lhb,lbg,legbreak googly,15.0,inf,37.5,0,2025
+YS Chahal,Sheikh Zayed Stadium,Mumbai Indians,MiddleOvers,SA Yadav,2,Mumbai Indians,25,0,0,13,4,0,rhb,lbg,legbreak googly,11.53846153846154,inf,30.76923076923077,0,2025
+Yash Dayal,"Dr DY Patil Sports Academy, Mumbai",Rajasthan Royals,Powerplay,JC Buttler,2,Gujarat Titans,33,0,0,11,7,1,rhb,lmf,left-arm medium-fast,18.0,inf,63.63636363636363,0,2025
+Yash Dayal,"Eden Gardens, Kolkata",Kolkata Knight Riders,DeathOvers,AD Russell,1,Kolkata Knight Riders,22,7,0,10,4,0,rhb,lmf,left-arm medium-fast,13.2,inf,40.0,0,2025
+Yash Dayal,"Eden Gardens, Kolkata",Rajasthan Royals,DeathOvers,JC Buttler,1,Gujarat Titans,28,2,0,11,5,1,rhb,lmf,left-arm medium-fast,15.272727272727272,inf,45.45454545454545,0,2025
+Yash Dayal,"M Chinnaswamy Stadium, Bengaluru",Delhi Capitals,DeathOvers,KL Rahul,2,Delhi Capitals,22,5,0,5,4,0,rhb,lmf,left-arm medium-fast,26.4,inf,80.0,0,2025
+Yash Dayal,"M Chinnaswamy Stadium, Bengaluru",Kolkata Knight Riders,Powerplay,SP Narine,2,Kolkata Knight Riders,33,10,0,10,6,0,lhb,lmf,left-arm medium-fast,19.8,inf,60.0,0,2025
+Yash Dayal,"M Chinnaswamy Stadium, Bengaluru",Sunrisers Hyderabad,Powerplay,TM Head,1,Sunrisers Hyderabad,20,0,0,8,3,0,lhb,lmf,left-arm medium-fast,15.0,inf,37.5,0,2025
+Yash Dayal,"Narendra Modi Stadium, Ahmedabad",Kolkata Knight Riders,DeathOvers,RK Singh,2,Kolkata Knight Riders,30,0,0,5,5,0,lhb,lmf,left-arm medium-fast,36.0,inf,100.0,0,2025
+Yash Thakur,"Eden Gardens, Kolkata",Kolkata Knight Riders,DeathOvers,RK Singh,2,Lucknow Super Giants,25,2,0,9,4,1,lhb,rfm,right-arm fast-medium,16.666666666666668,inf,44.44444444444444,0,2025
+Yash Thakur,"M Chinnaswamy Stadium, Bengaluru",Royal Challengers Bengaluru,MiddleOvers,MK Lomror,2,Lucknow Super Giants,23,1,0,7,4,1,lhb,rfm,right-arm fast-medium,19.71428571428571,inf,57.14285714285714,0,2025
+Yash Thakur,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Sunrisers Hyderabad,Powerplay,Abhishek Sharma,2,Sunrisers Hyderabad,56,3,0,20,11,0,lhb,rfm,right-arm fast-medium,16.8,inf,55.00000000000001,0,2025
+Zeeshan Ansari,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Gujarat Titans,MiddleOvers,Shubman Gill,2,Gujarat Titans,23,0,0,14,4,0,rhb,,,9.857142857142856,inf,28.57142857142857,0,2025
+Zeeshan Ansari,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Punjab Kings,MiddleOvers,SS Iyer,1,Sunrisers Hyderabad,33,2,0,15,4,1,rhb,,,13.2,inf,26.666666666666668,0,2025

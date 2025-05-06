@@ -1,0 +1,30 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title>Bowler Suggestion</title>
+</head>
+<body>
+    <h1>Bowler Suggestion Tool</h1>
+    <form id="suggestionForm">
+        <label for="matchData">Enter Match JSON:</label><br>
+        <textarea id="matchData" rows="10" cols="50">{ "phase": "DeathOvers", "team": "MI" }</textarea><br><br>
+        <button type="button" onclick="submitData()">Suggest Bowler</button>
+    </form>
+    <p id="result"></p>
+
+    <script>
+        async function submitData() {
+            const data = document.getElementById("matchData").value;
+            const response = await fetch("/suggest", {
+                method: "POST",
+                headers: { "Content-Type": "application/json" },
+                body: data
+            });
+            const result = await response.json();
+            document.getElementById("result").innerText = 
+                "Suggested Bowler: " + result.bowler + " (" + result.reason + ")";
+        }
+    </script>
+</body>
+</html>
